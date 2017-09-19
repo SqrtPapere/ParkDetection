@@ -21,7 +21,7 @@ client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # dns-sd -G  v4 raspberrypi7.local | grep  -E -o "(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)"
 #get_ip = os.popen('dns-sd -G  v4 raspberrypi7.local | grep  -E -o "(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)"').read()
 
-client.connect(('192.168.0.109', 50001))
+client.connect(('insert IP', 50001))
 
 # receive the response data (4096 is recommended buffer size)
 s = client.recv(1)
