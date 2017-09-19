@@ -13,7 +13,7 @@ Requires following dependencies:
 Move directory “rasp-parkDetecting” to RaspberryPi and position it looking to the area to be monitored. 
 Move directory “pc-parkDetecting” to PC.
 
-Connect to it by SSH -X. 
+Connect to it by SSH. 
 
 + run: python3 waitCoordRASP.py on RaspberryPI
 + run: python3 selectCoordPC.py on PC
