@@ -11,7 +11,7 @@ Requires following dependencies:
 * picamera (pip3 install "picamera[array]")
 
 Move directory “rasp-parkDetecting” to RaspberryPi and position it looking to the area to be monitored. 
-Move directory “pc-parkDetectingg” to PC.
+Move directory “pc-parkDetecting” to PC.
 
 Connect to it by SSH -X. 
 
