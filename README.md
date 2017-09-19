@@ -22,6 +22,14 @@ Connect to it by SSH -X.
 + run: python3 yoloRaspArray.py on raspberry
 + run: client.py on PC
 
+## Results
+[![4.png](https://s26.postimg.org/nahhmzm2d/Park0full_at_Sat_Jul_8_15_02_18_2017.jpg)](http://postimg.org/image/nahhmzm2d/)
+
+[![2.png](https://s26.postimg.org/8d90lz8tx/Park0empty_at_Sat_Jul_8_14_19_56_2017.jpg)](http://postimg.org/image/8d90lz8tx/)
+
+[![3.png](https://s26.postimg.org/6b8j7qaut/Park0full_at_Sat_Jul_8_11_53_17_2017.jpg)](http://postimg.org/image/6b8j7qaut/)
+
+[![1.png](https://s26.postimg.org/qes5js2ut/Park0empty_at_Sat_Jul_8_11_51_37_2017.jpg)](http://postimg.org/image/qes5js2ut/)
 
 ## Contributors
 Developed by [Francesco Pegoraro](https://github.com/SqrtPapere) and Daniele Giacomelli
