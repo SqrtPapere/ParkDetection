@@ -10,11 +10,17 @@ Requires following dependencies:
 * Pillow(pip3 install Pillow)
 * picamera (pip3 install "picamera[array]")
 
-Move directory “YOLO FOLDER” to RaspberryPi and position it looking to the area to be monitored. Connect to it by SSH -X. 
+Move directory “rasp-parkDetecting” to RaspberryPi and position it looking to the area to be monitored. 
+Move directory “pc-parkDetectingg” to PC.
 
-+ run: python3 selectRectRasp.py
+Connect to it by SSH -X. 
+
++ run: python3 waitCoordRASP.py on RaspberryPI
++ run: python3 selectCoordPC.py on PC
 + Select target of interest
-+ run: python3 yoloRaspArray.py
++ press "c" key two times
++ run: python3 yoloRaspArray.py on raspberry
++ run: client.py on PC
 
 
 ## Contributors
