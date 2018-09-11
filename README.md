@@ -25,7 +25,7 @@ Connect to it by SSH.
 ## Results
 Every time a change of state happens, a pic will be taken:
 
-[![4.png](https://s26.postimage.org/nahhmzm2d/Park0full_at_Sat_Jul_8_15_02_18_2017.jpg)](http://postimage.org/image/nahhmzm2d/)[![2.png](https://s26.postimage.org/8d90lz8tx/Park0empty_at_Sat_Jul_8_14_19_56_2017.jpg)](http://postimage.org/image/8d90lz8tx/)[![3.png](https://s26.postimage.org/6b8j7qaut/Park0full_at_Sat_Jul_8_11_53_17_2017.jpg)](http://postimage.org/image/6b8j7qaut/)[![1.png](https://s26.postimage.org/qes5js2ut/Park0empty_at_Sat_Jul_8_11_51_37_2017.jpg)](http://postimage.org/image/qes5js2ut/)
+[![4.png](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)[![2.png](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)[![3.png](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)[![1.png](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)](https://github.com/SqrtPapere/ParkDetection/blob/master/img/1.jpg)
 
 ## Contributors
 Developed by [Francesco Pegoraro](https://github.com/SqrtPapere) and [Daniele Giacomelli](https://github.com/DanieleGiacomelli)
